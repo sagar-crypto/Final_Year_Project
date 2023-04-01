@@ -1,0 +1,55 @@
+body{
+	margin:0px 0px 0px 0px;
+}
+
+#main2{
+	margin-top: 10vh;
+	background-color: white;
+	position: relative;
+	height: 65vh;
+	padding: 20px;
+}
+
+#ftxt{
+	background-color: white;
+	display: inline-block;
+	position: absolute;
+	height: 400px;
+	width: 40%;
+	left:  240px;
+}
+#fimg{
+	background-color: white;
+	display: inline-block;
+	position: absolute;
+	height: 400px;
+	width: 40%;
+	right: 10px;
+
+}
+
+img{
+	height:300px;
+	width: 300px;
+	object-position:right;
+	object-fit:fill;
+}
+
+#footer{
+	padding-top: 20px;
+	height: 20vh;
+	background-color: #282828;
+	box-sizing: border-box;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#foottext{
+	color :white;
+	display: block;
+	text-align: center;
+	text-transform: capitalize;
+	margin: 0px 10px 10px 10px;
+	font-size: 15px;
+	overflow: hidden;
+}
